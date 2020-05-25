@@ -1,0 +1,20 @@
+﻿  Source.cpp
+  SmallerExpression.cpp
+  Rules.cpp
+  PlusExpression.cpp
+  Parser.cpp
+c:\users\ilya\documents\visual studio 2015\projects\brainfuck2\brainfuck2\parser.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+  MinusExpression.cpp
+  Manager.cpp
+  Expression.cpp
+  Executor.cpp
+  EndWhileExpression.cpp
+  DotExpression.cpp
+  Checker.cpp
+c:\users\ilya\documents\visual studio 2015\projects\brainfuck2\brainfuck2\checker.cpp(8): warning C4018: <: несоответствие типов со знаком и без знака
+  BiggerExpression.cpp
+  BeginWhileExpression.cpp
+c:\users\ilya\documents\visual studio 2015\projects\brainfuck2\brainfuck2\beginwhileexpression.cpp(9): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  BrainFuck2.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2015\Projects\BrainFuck2\Debug\BrainFuck2.exe
+  BrainFuck2.vcxproj -> C:\Users\Ilya\Documents\Visual Studio 2015\Projects\BrainFuck2\Debug\BrainFuck2.pdb (Full PDB)
